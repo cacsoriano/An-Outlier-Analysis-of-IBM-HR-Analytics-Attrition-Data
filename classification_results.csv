@@ -1,0 +1,8 @@
+Machine Learning Method,Test Recall,Best Parameter,Top Predictor Variable,Run Time
+kNN,0.8458389056791924,N_Neighbor = 2,NA,150.9808931350708
+Logistic (l2),0.7697320846022653,C = 0.01,Department_Research & Development,51.402024269104004
+Logistic (l1),0.7672894205791748,C = 15,Department_Research & Development,88.7591609954834
+Linear SVM (l2),0.7661173570328479,C = 0.2,Department_Research & Development,71.4796051979065
+Linear SVM (l1),0.7661198112579923,C = 0.75,Department_Research & Development,69.07917714118958
+Random Forest,0.9776130434667344,Max_features = 0.1,OverTime_Yes,42.049453020095825
+Gradient Boosting Method,0.9668112728842626,Max_features = 0.7,OverTime_Yes,33.36960697174072
