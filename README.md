@@ -1,5 +1,7 @@
 # Two Week Notice: An Outlier Analysis of IBM HR Analytics Attrition Data
 
+![](https://github.com/cacsoriano/An-Outlier-Analysis-of-IBM-HR-Analytics-Attrition-Data/raw/main/img/Employee-Attrition.png)
+
 Open `Technical_Report.ipynb` to view the full report.
 
 ### Executive Summary
